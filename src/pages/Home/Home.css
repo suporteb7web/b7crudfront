@@ -1,0 +1,9 @@
+.structureName,
+th {
+	text-transform:capitalize;
+}
+.new_column {
+    border: 2px dashed #CCC;
+    padding: 20px;
+    margin: 20px 0;
+}
